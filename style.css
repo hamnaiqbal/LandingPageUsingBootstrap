@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+* {}
+
+body {
+    padding: 3px 3px 3px 3px;
+    background-color: #fdfcfa;
+    overflow-x: hidden;
+
+}
+
+.nav-link {
+    font-family: 'Comfortaa', cursive;
+}
+
+.rounded {
+    position: relative;
+   
+    height: 450px;
+
+}
+
+.dot1 {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #50DBB4;
+    margin-left: 700px;
+    position: absolute;
+}
+
+.dot2 {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #E03B8B;
+    margin-left: 570px;
+    margin-top: 110px;
+    position: absolute;
+    opacity: 0.3;
+}
+
+.dot3 {
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #E07C24;
+    margin-left: 800px;
+    margin-top: 90px;
+    position: absolute;
+}
+.dot4{
+    height: 280px;
+    width: 280px;
+    border-radius: 50%;
+    /* display: inline-block; */
+    background-color: #6AC47E;
+    margin-left: 1300px;
+    
+    
+    position: absolute;
+    opacity: 0.2;
+    transform: rotate(20deg);
+}
+
+.butt {
+    margin-left: 755px;
+    margin-top: 101px;
+    position: relative;
+}
+
+.but-dot {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-image: linear-gradient(#FF9F4A, #FF3C83);
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 100px;
+    opacity: 0.3;
+    box-shadow: 1px 1px 2px black, 0 0 25px #FF6263, 0 0 5px #E83A59;
+
+
+
+
+}
+
+.thumbsUp {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-left: 1001px;
+    background-color: #12B0E8;
+    position: relative;
+    position: absolute;
+
+
+}
+
+.fas {
+    position: absolute;
+    margin-left: 1012px;
+    margin-top: 10px;
+    color: white;
+    transform: rotate(20deg);
+
+}
+
+
+.doc{
+    position: relative;
+}
+/* #h1{
+    position: relative;
+} */
+.circle{
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    margin-left: 10px;
+    
+    background-color: #51E1ED;
+    opacity: 0.3;
+    
+    
+    position: absolute;
+
+}
+#round{
+border-radius: 50px;
+background-color: #FF6263;
+
+}
+.p{
+    font-family: 'Comfortaa', cursive;
+}
+
+.Section{
+    width:300px;
+    height: 70px;
+    margin-left: 30px;
+    background-color: rgb(216, 215, 213);
+    border-radius: 50px;
+}
+.desi{
+    margin-top: 10px;
+}
